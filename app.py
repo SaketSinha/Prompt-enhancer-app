@@ -14,7 +14,7 @@ try:
 except Exception:
     OpenAI = None
 
-APP_TITLE = "✨ Prompt Enhancer (Streamlit + OpenAI)"
+APP_TITLE = "✨ Saket's Prompt Enhancer"
 DEFAULT_MODEL = "gpt-4.1-mini"
 ALT_MODELS = ["gpt-4.1", "gpt-4.1-mini"]
 
